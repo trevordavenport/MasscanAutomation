@@ -20,9 +20,9 @@ ___
 #### Overview ####
 ```
  1  [*] Masscan initiates port scan
- 2    [*] Results are generated in XML output
- 3     [*] Output is pushed to scanhub.shodan.io/repo
- 4       [*] Data Analysis for Security/Vulnerability Management
+ 2   [*] Results are generated in XML output
+ 3    [*] Output is pushed to scanhub.shodan.io/repo
+ 4     [*] Data Analysis for Security/Vulnerability Management
 ```
 ___
 

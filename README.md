@@ -10,5 +10,13 @@ Author: Trevor Davenport
 ```
   Masscan Port Scanner: https://github.com/robertdavidgraham/masscan
   Masscan Man Page:     http://manpages.ubuntu.com/manpages/vivid/man8/masscan.8.html
+  
+  Python Dependencies: Requests (http://www.python-requests.org/en/latest/)
+                       Simplejson (https://simplejson.readthedocs.org/en/latest/)
+                       Shodan API (https://shodan.readthedocs.org/en/latest/)
 ```
 ___
+
+#### Usage ####
+
+![](http://i.imgur.com/ixgwvDW.png)

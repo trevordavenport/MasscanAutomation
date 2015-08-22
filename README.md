@@ -28,7 +28,7 @@ ___
 
 #### Usage ####
 
-![](http://i.imgur.com/ixgwvDW.png)
+![](http://i.imgur.com/cFcey2H.png)
 
 ___
 

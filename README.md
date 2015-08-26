@@ -48,7 +48,7 @@ ___
 ![](http://i.imgur.com/GAgC0Af.png)
 
   Cleaned Up. A Mapping of Host to Port(s).
-![](http://i.imgur.com/wvKu3yK.png)
+
 
 ###### Output Results ######
 ![](http://i.imgur.com/5CXOxYM.png)

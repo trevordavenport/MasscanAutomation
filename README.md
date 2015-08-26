@@ -32,11 +32,10 @@ ___
 
 ___
 
-#### Shodan API ####
+### Shodan API ###
 ###### Service to Port Shodan Mapping ######
-```
   Shodan Provides a dictionary of common Ports to known Services, we can use this data to further expand the knowledge of our open port list.
-```
+
 ![](http://i.imgur.com/WFUZstr.png)
 
 

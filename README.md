@@ -57,6 +57,8 @@ ___
 #### Future Versions ####
 ```
  If I had more time to implement this I would have done some aspects differently.
+    - Integrate ShodanAPI Exploit search for known/unknown ports
+    - Parse Banners for each Host, look for any vulnerabilities/verbose information about servers.
     - Utilize Amazon instances for MapReduce-esque efficiency
     - Input Formatting (IP Address)
     - Testing API Key

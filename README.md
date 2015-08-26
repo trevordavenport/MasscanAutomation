@@ -14,6 +14,8 @@ Author: Trevor Davenport
   Python Dependencies: Requests (http://www.python-requests.org/en/latest/)
                        BeautifulSoup (http://www.crummy.com/software/BeautifulSoup/)
                        Shodan API (https://shodan.readthedocs.org/en/latest/)
+                       
+  Other Dependencies: CURL (http://curl.haxx.se/)
 ```
 ___
 

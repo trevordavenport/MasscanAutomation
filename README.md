@@ -41,6 +41,13 @@ ___
   Data Analysis will render the Services and Service Count from the masscan results.
 ![](http://i.imgur.com/9R6er6y.png)
 
+###### Parsing Masscan XML Results ######
+  Using BeautifulSoup, we parse the XML File into meaningful data.
+![](http://i.imgur.com/GAgC0Af.png)
+
+  Cleaned Up. A Mapping of Host to Port(s).
+![](http://i.imgur.com/wvKu3yK.png)
+
 #### Future Versions ####
 ```
  If I had more time to implement this I would have done some aspects differently.

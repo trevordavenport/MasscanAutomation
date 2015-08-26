@@ -48,6 +48,10 @@ ___
   Cleaned Up. A Mapping of Host to Port(s).
 ![](http://i.imgur.com/wvKu3yK.png)
 
+###### Output Results ######
+![](http://i.imgur.com/5CXOxYM.png)
+
+
 #### Future Versions ####
 ```
  If I had more time to implement this I would have done some aspects differently.

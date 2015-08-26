@@ -12,7 +12,7 @@ Author: Trevor Davenport
   Masscan Man Page:     http://manpages.ubuntu.com/manpages/vivid/man8/masscan.8.html
   
   Python Dependencies: Requests (http://www.python-requests.org/en/latest/)
-                       Simplejson (https://simplejson.readthedocs.org/en/latest/)
+                       BeautifulSoup (http://www.crummy.com/software/BeautifulSoup/)
                        Shodan API (https://shodan.readthedocs.org/en/latest/)
 ```
 ___
@@ -32,10 +32,19 @@ ___
 
 ___
 
+#### Shodan API ####
+###### Service to Port Shodan Mapping ######
+```
+  Shodan Provides a dictionary of common Ports to known Services, we can use this data to further expand the knowledge of our open port list.
+```
+![](http://i.imgur.com/WFUZstr.png)
+
+
 #### Future Versions ####
 ```
  If I had more time to implement this I would have done some aspects differently.
     - Input Formatting (IP Address)
     - Testing API Key
     - Do Away with Python.os() -- Yeah.. I know. Quick, Dirty and Effective was the name of the game
+    - Integrate ShodanMaps (see screenshot below)
 ```

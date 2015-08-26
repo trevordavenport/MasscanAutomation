@@ -55,6 +55,7 @@ ___
 #### Future Versions ####
 ```
  If I had more time to implement this I would have done some aspects differently.
+    - Utilize Amazon instances for MapReduce-esque efficiency
     - Input Formatting (IP Address)
     - Testing API Key
     - Do Away with Python.os() -- Yeah.. I know. Quick, Dirty and Effective was the name of the game

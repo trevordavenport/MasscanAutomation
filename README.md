@@ -6,6 +6,10 @@ Masscan + Shodan Automation
 Author: Trevor Davenport
 ```
 
+#### Update (12/5/15) ####
+> We've Been Added to BlackArch Distro!
+![](http://i.imgur.com/qscg347.png)
+
 #### Background ####
 ```
   Masscan Port Scanner: https://github.com/robertdavidgraham/masscan

@@ -77,7 +77,7 @@ def vuln_management(results, api):
                     service_count[str('Port ' + elems[0])] = 1
                 else:
                     service_count[str('Port ' + elems[0]] += 1  
-        if host_dict and service_count:
+        if (host_dict and service_count):
             print_results(host_dict, service_count)
 
     except Exception as e:
